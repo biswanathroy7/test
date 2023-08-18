@@ -16,7 +16,31 @@
  <h2>Talk to an expert in the Microsoft Support Community</h2>
 
  Join the 300M customers who get help from the Community each year and get answers to your technical support issues.
- 
+
+ <button id="homepage-banner" class="mx-auto btn btn-primary" type="button" styles="-webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: inherit;
+    text-transform: none;
+    -webkit-appearance: button;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: .4375em;
+    font-weight: 600;
+    border: .125rem solid transparent;
+    position: relative;
+    border-radius: .125rem;
+    text-decoration: none;
+    padding: .625rem .75rem;
+    font-size: 1rem;
+    line-height: 1;
+    background-color: #0067b8;
+    color: #fff!important;
+    cursor: pointer;
+    margin-right: auto!important;
+    margin-left: auto!important;">Ask a new question</button>
 <a target="_blank" href="https://answers.microsoft.com/en-us/newthread?threadtype=Questions&amp;cancelurl=%2Fen-us%2Fbing%2Fforum&amp;forum=bing&amp;filter=" style="color: #0067b8 !important;">Ask your question</a>
 
 ## **Recommended Steps**
