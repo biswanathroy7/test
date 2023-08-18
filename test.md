@@ -17,7 +17,7 @@
 
  Join the 300M customers who get help from the Community each year and get answers to your technical support issues.
 
- <button id="homepage-banner" class="mx-auto btn btn-primary" type="button" styles="-webkit-text-size-adjust: 100%;
+ <button id="homepage-banner" class="mx-auto btn btn-primary" type="button" style="-webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
     box-sizing: border-box;
     margin: 0;
