@@ -13,7 +13,7 @@
 />
 
 # Surface power and battery
- **Talk to an expert in the Microsoft Support Community**
+ <h2>Talk to an expert in the Microsoft Support Community</h2>
 
  Join the 300M customers who get help from the Community each year and get answers to your technical support issues.
  
