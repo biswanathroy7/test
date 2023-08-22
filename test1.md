@@ -17,7 +17,7 @@
 
  Join the 300M customers who get help from the Community each year and get answers to your technical support issues.
 
- <a target="_blank" href="https://answers.microsoft.com/en-us/newthread?threadtype=Questions&amp;cancelurl=%2Fen-us%2Fbing%2Fforum&amp;forum=bing&amp;filter=" style="-webkit-text-size-adjust: 100%;
+ <a target="_blank" href="https://answers.microsoft.com/en-us/newthread?forum=surface&from=servicehubdeflect" style="-webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
     box-sizing: border-box;
     margin: 0;
