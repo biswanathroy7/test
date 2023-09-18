@@ -16,7 +16,19 @@
  <h2>Talk to an expert in the Microsoft Support Community</h2>
 
  Join the 300M customers who get help from the Community each year and get answers to your technical support issues.
+ <script type="text/javascript">
 
+  document.addEventListener("DOMContentLoaded", function() {
+  // Your code to run when the DOM is ready
+     console.log("Document is ready!");
+  });
+  function guidGenerator() {
+    var S4 = function() {
+       return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+    };
+    return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
+  }
+ </script>
  <a target="_blank" href="https://answers.microsoft.com/en-us/newthread?forum=surface&from=servicehubdeflect" style="-webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
     box-sizing: border-box;
